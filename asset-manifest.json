@@ -1,23 +1,21 @@
 {
   "files": {
-    "main.css": "/google-book-search/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/google-book-search/static/js/main.2d63b7f8.chunk.js",
-    "main.js.map": "/google-book-search/static/js/main.2d63b7f8.chunk.js.map",
-    "runtime-main.js": "/google-book-search/static/js/runtime-main.109179a2.js",
-    "runtime-main.js.map": "/google-book-search/static/js/runtime-main.109179a2.js.map",
-    "static/js/2.555cada4.chunk.js": "/google-book-search/static/js/2.555cada4.chunk.js",
-    "static/js/2.555cada4.chunk.js.map": "/google-book-search/static/js/2.555cada4.chunk.js.map",
-    "static/js/3.2a227138.chunk.js": "/google-book-search/static/js/3.2a227138.chunk.js",
-    "static/js/3.2a227138.chunk.js.map": "/google-book-search/static/js/3.2a227138.chunk.js.map",
+    "main.css": "/google-book-search/static/css/main.f994e921.chunk.css",
+    "main.js": "/google-book-search/static/js/main.cdf79aa1.chunk.js",
+    "main.js.map": "/google-book-search/static/js/main.cdf79aa1.chunk.js.map",
+    "runtime-main.js": "/google-book-search/static/js/runtime-main.97a9008e.js",
+    "runtime-main.js.map": "/google-book-search/static/js/runtime-main.97a9008e.js.map",
+    "static/js/2.912ee376.chunk.js": "/google-book-search/static/js/2.912ee376.chunk.js",
+    "static/js/2.912ee376.chunk.js.map": "/google-book-search/static/js/2.912ee376.chunk.js.map",
     "index.html": "/google-book-search/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/google-book-search/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.555cada4.chunk.js.LICENSE.txt": "/google-book-search/static/js/2.555cada4.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/google-book-search/static/media/logo.6ce24c58.svg"
+    "static/css/main.f994e921.chunk.css.map": "/google-book-search/static/css/main.f994e921.chunk.css.map",
+    "static/js/2.912ee376.chunk.js.LICENSE.txt": "/google-book-search/static/js/2.912ee376.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/google-book-search/static/media/library.735caf78.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.109179a2.js",
-    "static/js/2.555cada4.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.2d63b7f8.chunk.js"
+    "static/js/runtime-main.97a9008e.js",
+    "static/js/2.912ee376.chunk.js",
+    "static/css/main.f994e921.chunk.css",
+    "static/js/main.cdf79aa1.chunk.js"
   ]
 }
