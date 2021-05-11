@@ -1,10 +1,10 @@
 import React, { Component } from "react";
 import { BrowserRouter as Router, Route } from "react-router-dom";
-import NavBar from "./components/NavBar";
-import Header from "./components/Header";
-import Wrapper from "./components/Wrapper";
-import Search from "./pages/Search";
-import Saved from "./pages/Saved";
+import NavBar from "./components/navbar";
+import Header from "./components/header";
+import Wrapper from "./components/wrapper";
+import Search from "./pages/search";
+import Saved from "./pages/saved";
 
 import "./App.css";
 
