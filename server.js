@@ -12,7 +12,7 @@ if (process.env.NODE_ENV === "production") {
     app.use(express.static("client/build"))
 };
 
-mongoose.connect(process.env.MONGO_URI || "mongo://localhost/googleIt", {
+mongoose.connect(process.env.MONGO_URI || "mongodb://localhost/googleIt", {
     useNewUrlParser: true
 });
 
