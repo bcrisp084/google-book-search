@@ -45,8 +45,7 @@ For any questions regarding anything related to this application you may reach m
 
 ## Link
 
-Deployed live to Heroku [click me](https://lit-thicket-64605.herokuapp.com/)
-
+Deployed live to GitHub Pages [click me](https://bcrisp084.github.io/google-book-search/)
 ## Snippet
 ![image](https://user-images.githubusercontent.com/73912705/117748822-b310a280-b1de-11eb-8cfb-e4a027b50808.png)
 ![image](https://user-images.githubusercontent.com/73912705/117748892-d20f3480-b1de-11eb-82f3-ef6fe86925a2.png)
